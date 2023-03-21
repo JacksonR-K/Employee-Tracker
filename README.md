@@ -19,6 +19,10 @@ Install MySQL to host the database: https://dev.mysql.com/doc/mysql-installation
 
 ## Usage
 
+
+https://user-images.githubusercontent.com/118566376/226509354-b013d832-946c-466b-81de-55c0b99d73fa.mp4
+
+
 To start the program, run either 'node server.js' or 'npm start' from the root folder and follow the on screen options to manage your data on the database from the terminal.
 
 ## License
